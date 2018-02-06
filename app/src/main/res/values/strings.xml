@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Albumes Favoritos</string>
+    <string name="strError">ERROR!!!</string>
+    <string name="title_activity_album_detallado">Album Detallado</string>
+    <string name="title_activity_ver_favoritos">Lista de Favoritos</string>
+    <string name="txtAfirmativo">Sí</string>
+    <string name="txtNegativo">No</string>
+</resources>
